@@ -1,66 +1,33 @@
-
-[{
-    "avata":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqAx8cMFZ65PNjh3T0VJSRWuQ3RJKDp4JLiw&usqp=CAU",
-    "img":[
-
-        {"img1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqAx8cMFZ65PNjh3T0VJSRWuQ3RJKDp4JLiw&usqp=CAU"},
-        {"img1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB47D6rmUirKBLpvlvSmXFNfJE1qRQu_tJYsEmo1wpEeTjZbiZQwPz9BXZzy7JXVXerwc&usqp=CAU"},
-        {"img1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTygdIdrIc8oEws1U-8g3lVF5tVXWZ-6anImn70aljEVVaI--ZZ6tpEJ8E13s_qrvB4fGI&usqp=CAU"}
-    ],
-    "name":"ÁO PARIS SAINT",
-    "manufacturer":"ADIDAS",
-    "price":"130$"
-},
 {
-    "avata":"https://www.uksoccershop.com/images/1534946121-taiwan-flag-airo-front.jpg",
-    "img":[
-
-        {"img1":"https://www.uksoccershop.com/images/1534946121-taiwan-flag-airo-front.jpg"},
-        {"img1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdPb71XUJInK0Rd1uF7xsU6K21Ripv3j-A0YIO2-MdDaKZeQHiEappH3r3mZHuTFtElnA&usqp=CAU"},
-        {"img1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh2pxqUYPSePTCluK8glQfsOo_6Ml_zEWLYQLVfphzc0tmr6hYBFD5diKjKBMcp-MSn9Y&usqp=CAU"}
-    ],
-    "name":"ÁO TAIWAN HOME",
-    "manufacturer":"NIKE",
-    "price":"120$"
-},
-{
-    "avata":"https://1.bp.blogspot.com/-wPXdkTR96r0/X-s2wS2K-BI/AAAAAAAC0ME/qimxXTv3WPw8U2MTpvihg4E_uORa5jtyACNcBGAsYHQ/s550/hertha-deal%2B%25282%2529.jpg",
-    "img":[
-
-        {"img1":"https://1.bp.blogspot.com/-wPXdkTR96r0/X-s2wS2K-BI/AAAAAAAC0ME/qimxXTv3WPw8U2MTpvihg4E_uORa5jtyACNcBGAsYHQ/s550/hertha-deal%2B%25282%2529.jpg"},
-        {"img1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYN6FBm97kKcHzCiN0pkOrIgOXRo26tg1qDZ11mdsu-iSfyFbmNyqUiq-CJDrwIsKzYUk&usqp=CAU"},
-        {"img1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWNS_j9oY3-k5leFNEebNWnV7HwbrwFB4_KKkFR4-rQdnQ_X63J3Qll9CzZWQBfOPYjcU&usqp=CAU"}
-    ],
-    
-    "name":"ÁO BERLIN FOOT BALL",
-    "manufacturer":"ADIDAS",
-    "price":"100$"
-},
-
-{
-    "avata":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXNZ57vpWAitQsfpzxwa5xwfHbicxg-MfY_F8wwjACDHOGpkQBMFtfRqvnmDFM9FMWTCg&usqp=CAU",
-    "img":[
-
-        {"img1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXNZ57vpWAitQsfpzxwa5xwfHbicxg-MfY_F8wwjACDHOGpkQBMFtfRqvnmDFM9FMWTCg&usqp=CAU"},
-        {"img1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR42VczEGB7qkqeqNviEiiWROCHgJ9IqtoTrYeoOR9TOCMnj3KiyY6CRYhp_jONccDB6_c&usqp=CAU"},
-        {"img1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlDj13RbkYTcJEJjF8luWEnH75W2leqhWGIHziMuVlgc-coOORa8YPzt0jdTv38hgs8g&usqp=CAU"}
-    ],
-    
-    "name":"ÁO MALAYSIA 2020 ",
-    "manufacturer":"NIKE",
-    "price":"135$"
-},
-{
-    "avata":"https://media.bongda.com.vn/files/thu.phan/2020/03/07/690-1013.jpg",
-    "img":[
-
-        {"img1":"https://media.bongda.com.vn/files/thu.phan/2020/03/07/690-1013.jpg"},
-        {"img1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBXAs8-mnNfNhPNgzrh2d2IRnklCk1LZjAZIVMWrO2WgaIsuGnhvMgCY56zKrFlOCexQ&usqp=CAU"},
-        {"img1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyq46cSmxsDzqk-ac1_I7qQT22pk4pKj27v8RGYtjGdBJPOk_rQwlGHZkYVQYI4rozPs&usqp=CAU"}
-    ],
-    
-    "name":"ÁO ENGLAND 2020 ",
-    "manufacturer":"NIKE",
-    "price":"170$"
+  "banner": [
+    "http://lauga109.com/upload/banner/full/1620369971_cover-01.jpeg",
+    "http://lauga109.com/upload/banner/full/1621927657_hppydayweb1200x450-01.jpeg",
+    "http://lauga109.com/upload/banner/full/1621927436_mua1tang1web1200x450-01.jpeg"
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "American",
+      "color": "#fbc831",
+      "image": "http://tutofox.com/foodapp//categories/american.png"
+    },
+    {
+      "id": 2,
+      "name": "Burger",
+      "color": "#9fd236",
+      "image": "http://tutofox.com/foodapp//categories/burger.png"
+    },
+    {
+      "id": 3,
+      "name": "Pizza",
+      "color": "orange",
+      "image": "http://tutofox.com/foodapp//categories/pizza.png"
+    },
+    {
+      "id": 4,
+      "name": "Drink",
+      "color": "#f2f2f2",
+      "image": "http://tutofox.com/foodapp//categories/drink.png"
+    }
+  ]
 }
-]
