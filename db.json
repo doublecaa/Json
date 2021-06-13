@@ -72,5 +72,19 @@
     "price":"170$",
     "btn":"THÊM VÀO GIỎ HÀNG",
     "detail":"Details England 2020 Shirt"
+},
+{
+    "avata":"https://fansport.vn/upload/post/15/84/07/ao-dau-san-nha-doi-tuyen-cong-hoa-czech-nam-2020-20200313133012-472146.jpg",
+    "img":[
+
+        {"img1":"https://fansport.vn/upload/post/15/84/07/ao-dau-san-nha-doi-tuyen-cong-hoa-czech-nam-2020-20200313133012-472146.jpg"},
+        {"img1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG4jpxo21jn7g-CCBJFucyFK-HPlVCdgYMg7DuLgzslBz9o116TUC0ACf1KHvnGdE4BLE&usqp=CAU"},
+        {"img1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9HQ9pR0ddWxBRiKvs6Uxu6Oxn5XiA5ogRz4egskqehsFcqzNtbyyD2G_DHEk9XPf5GPU&usqp=CAU"}
+    ],
+    "name":"ÁO PUMA CZEH",
+    "manufacturer":"BIKE",
+    "price":"180$",
+    "btn":"THÊM VÀO GIỎ HÀNG",
+    "detail":"Details Puma CZEH"
 }
 ]
