@@ -1,10 +1,10 @@
 "store":
 [{
     "avata":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqAx8cMFZ65PNjh3T0VJSRWuQ3RJKDp4JLiw&usqp=CAU",
-    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqAx8cMFZ65PNjh3T0VJSRWuQ3RJKDp4JLiw&usqp=CAU"}
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqAx8cMFZ65PNjh3T0VJSRWuQ3RJKDp4JLiw&usqp=CAU"},
     "name":"ÁO PARIS SAINT",
     "manufacturer":"ADIDAS",
-    "price":"130$",
+    "price":"130000",
     "btn":"THÊM VÀO GIỎ HÀNG",
     "detail":"Details Paris Saint Shirt"
 },
@@ -13,7 +13,7 @@
     "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqAx8cMFZ65PNjh3T0VJSRWuQ3RJKDp4JLiw&usqp=CAU"},
     "name":"ÁO TAIWAN HOME",
     "manufacturer":"NIKE",
-    "price":"120$",
+    "price":"120",
     "btn":"THÊM VÀO GIỎ HÀNG",
     "detail":"Details Taiwan Home Shirt"
 },
@@ -23,7 +23,7 @@
     
     "name":"ÁO BERLIN FOOT BALL",
     "manufacturer":"ADIDAS",
-    "price":"100$",
+    "price":"100",
     "btn":"THÊM VÀO GIỎ HÀNG",
     "detail":"Details Berlin Foot Ball Shirt"
 },
@@ -34,7 +34,7 @@
     
     "name":"ÁO MALAYSIA 2020 ",
     "manufacturer":"NIKE",
-    "price":"135$",
+    "price":"135",
     "btn":"THÊM VÀO GIỎ HÀNG",
     "detail":"Details Malaysia 2020 Shirt"
 },
@@ -44,7 +44,7 @@
     
     "name":"ÁO ENGLAND 2020 ",
     "manufacturer":"NIKE",
-    "price":"170$",
+    "price":"170",
     "btn":"THÊM VÀO GIỎ HÀNG",
     "detail":"Details England 2020 Shirt"
 },
@@ -53,7 +53,7 @@
     "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqAx8cMFZ65PNjh3T0VJSRWuQ3RJKDp4JLiw&usqp=CAU"},
     "name":"ÁO PUMA CZEH",
     "manufacturer":"BIKE",
-    "price":"180$",
+    "price":"180",
     "btn":"THÊM VÀO GIỎ HÀNG",
     "detail":"Details Puma CZEH"
 }
