@@ -1,4 +1,4 @@
-
+"store":
 [{
     "avata":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqAx8cMFZ65PNjh3T0VJSRWuQ3RJKDp4JLiw&usqp=CAU",
     "img":[
@@ -10,7 +10,7 @@
     "manufacturer":"ADIDAS",
     "price":"130$",
     "btn":"THÊM VÀO GIỎ HÀNG",
-    "detail":"Details Paris Saint Shirt"
+
 },
 {
     "avata":"https://www.uksoccershop.com/images/1534946121-taiwan-flag-airo-front.jpg",
@@ -23,7 +23,7 @@
     "manufacturer":"NIKE",
     "price":"120$",
     "btn":"THÊM VÀO GIỎ HÀNG",
-    "detail":"Details Taiwan Home Shirt"
+
 },
 {
     "avata":"https://1.bp.blogspot.com/-wPXdkTR96r0/X-s2wS2K-BI/AAAAAAAC0ME/qimxXTv3WPw8U2MTpvihg4E_uORa5jtyACNcBGAsYHQ/s550/hertha-deal%2B%25282%2529.jpg",
@@ -37,7 +37,7 @@
     "manufacturer":"ADIDAS",
     "price":"100$",
     "btn":"THÊM VÀO GIỎ HÀNG",
-    "detail":"Details Berlin Foot Ball Shirt"
+
 },
 
 {
@@ -52,7 +52,7 @@
     "manufacturer":"NIKE",
     "price":"135$",
     "btn":"THÊM VÀO GIỎ HÀNG",
-    "detail":"Details Malaysia 2020 Shirt"
+
 },
 {
     "avata":"https://media.bongda.com.vn/files/thu.phan/2020/03/07/690-1013.jpg",
@@ -66,7 +66,7 @@
     "manufacturer":"NIKE",
     "price":"170$",
     "btn":"THÊM VÀO GIỎ HÀNG",
-    "detail":"Details England 2020 Shirt"
+
 },
 {
     "avata":"https://fansport.vn/upload/post/15/84/07/ao-dau-san-nha-doi-tuyen-cong-hoa-czech-nam-2020-20200313133012-472146.jpg",
@@ -79,6 +79,6 @@
     "manufacturer":"BIKE",
     "price":"180$",
     "btn":"THÊM VÀO GIỎ HÀNG",
-    "detail":"Details Puma CZEH"
+
 }
 ]
